@@ -1,4 +1,4 @@
-# DataCamp_sql_videogame_gold_age_analize
+# Datacamp project: sql, videogame data gold age analize
 SQL, data analize, joining Data in SQL
 
 ## Project Description
